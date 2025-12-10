@@ -1,6 +1,8 @@
 # SQL EDA and Advanced Data Analysis
 
 This repository contains a complete SQL-based Exploratory Data Analysis (EDA) and advanced analytical workflow using a star-schema dataset. The goal is to understand the database structure, explore dimensions and measures, analyze business performance, and create reusable reporting views.
+![Schema](docs/schema.jpg)
+
 
 ---
 
